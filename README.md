@@ -6,6 +6,6 @@ Integrantes:
 
 Ejercicios
 
-* Ejercicio #1 https://snack.expo.dev/@genesismenjivar/ejercicio2
+* Ejercicio #1 https://snack.expo.dev/@genesismenjivar/ejercicio1
 
 * Ejercicio #2 https://snack.expo.dev/@josuefabian/ejercicio2_parcial2
