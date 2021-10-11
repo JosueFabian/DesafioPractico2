@@ -9,3 +9,5 @@ Ejercicios
 * Ejercicio #1 https://snack.expo.dev/@genesismenjivar/ejercicio1
 
 * Ejercicio #2 https://snack.expo.dev/@josuefabian/ejercicio2_parcial2
+
+(Nota: Los dos ejercicios cumplen al 100% su funcionalidad)
